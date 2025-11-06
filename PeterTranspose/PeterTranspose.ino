@@ -1,3 +1,5 @@
+//up dated fredo
+
 #include <Adafruit_NeoPixel.h>
 
 #define NEO_PIN 2   // input pin Neopixel is attached to
